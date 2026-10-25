@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+IYlCH4Lyw=",
+  "success": true,
+  "projectFilePath": "/home/a2/okul/nesneDers/ders1/ders1.csproj",
+  "expectedPackageFiles": [
+    "/home/a2/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
